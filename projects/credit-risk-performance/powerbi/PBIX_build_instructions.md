@@ -4,7 +4,7 @@
 
 - PBIP entry point: `dashboard/FinTech_Credit_Risk.pbip`
 - Packaged output: `FinTech_Credit_Risk_Dashboard.pbix`
-- Canonical source: `C:\PowerBI Dashboard - KhoiPort`
+- Canonical source: Source-controlled project in this repository.
 
 ## Build
 

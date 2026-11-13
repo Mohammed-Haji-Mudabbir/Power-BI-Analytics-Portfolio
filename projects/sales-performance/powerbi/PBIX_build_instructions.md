@@ -4,7 +4,7 @@
 
 - PBIP entry point: `dashboard/UK_Online_Retail_Sales.pbip`
 - Packaged output: `UK_Online_Retail_Sales_Performance_Dashboard.pbix`
-- Canonical source: `C:\PowerBI Dashboard - KhoiPort`
+- Canonical source: Source-controlled project in this repository.
 
 ## Build
 

@@ -4,7 +4,7 @@
 
 - PBIP entry point: `dashboard/Apple_Finance.pbip`
 - Packaged output: `Apple_Inc_Financial_Performance_Dashboard.pbix`
-- Canonical source: `C:\PowerBI Dashboard - KhoiPort`
+- Canonical source: Source-controlled project in this repository.
 
 ## Build
 

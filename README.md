@@ -1,11 +1,11 @@
-<div align="center">
+ <div align="center">
 
 # Power BI Analytics Portfolio
 
 **Five decision-focused dashboard products across Sales, Marketing, Finance, Credit Risk, and FP&A**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C7F436?style=for-the-badge)](https://tuankhoi2411.github.io/power-bi/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-khoi-nguyen-324139316/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C7F436?style=for-the-badge)](https://github.com/Mohammed-Haji-Mudabbir/Power-BI-Analytics-Portfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Haji-Mudabbir)
 
 </div>
 
@@ -71,6 +71,6 @@ Start with each project’s `BI_Dashboard_Creation_Prompt.md`. The DAX export an
 
 ## Author
 
-**Nguyen Tuan Khoi** — Finance & Data Analytics · Power BI · Process Automation
+**Mohammed Haji Mudabbir** — Finance & Data Analytics · Power BI · Process Automation
 
-[GitHub Profile](https://github.com/TuanKhoi2411) · [Finance Case Studies](https://github.com/TuanKhoi2411/finance-analytics-case-studies) · [Email](mailto:tuankhoi24112003@gmail.com)
+[GitHub Profile](https://github.com/Mohammed-Haji-Mudabbir) · [Power BI Analytics Portfolio](https://github.com/Mohammed-Haji-Mudabbir/Power-BI-Analytics-Portfolio)

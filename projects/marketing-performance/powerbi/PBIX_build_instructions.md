@@ -4,7 +4,7 @@
 
 - PBIP entry point: `dashboard/Portuguese_Bank_Marketing.pbip`
 - Packaged output: `Portuguese_Bank_Marketing_Performance_Dashboard.pbix`
-- Canonical source: `C:\PowerBI Dashboard - KhoiPort`
+- Canonical source: Source-controlled project in this repository.
 
 ## Build
 
